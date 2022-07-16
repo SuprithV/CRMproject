@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.service;
+package com.spring.service;
 
 import java.util.List;
 
