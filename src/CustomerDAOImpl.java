@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.dao;
+package com.spring.dao;
 
 import java.util.List;
 
