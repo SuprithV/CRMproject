@@ -1,4 +1,4 @@
-package com.luv2code.springdemo.controller;
+package com.spring.controller;
 
 import java.util.List;
 
