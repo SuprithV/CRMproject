@@ -2,7 +2,7 @@ package com.spring.dao;
 
 import java.util.List;
 
-import com.luv2code.springdemo.entity.Customer;
+import com.spring.entity.Customer;
 
 public interface CustomerDAO {
 
