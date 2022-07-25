@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.luv2code.springdemo.dao.CustomerDAO;
-import com.luv2code.springdemo.entity.Customer;
+import com.spring.dao.CustomerDAO;
+import com.spring.entity.Customer;
 
 @Service
 public class CustomerServiceImpl implements CustomerService {
